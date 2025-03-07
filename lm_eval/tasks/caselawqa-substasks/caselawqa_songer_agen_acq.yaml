@@ -1,0 +1,3 @@
+include: _default_template_qa
+dataset_name: songer_agen_acq
+task: caselawqa_songer_agen_acq

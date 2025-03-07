@@ -1,0 +1,3 @@
+include: _default_template_qa
+dataset_name: songer_entrap
+task: caselawqa_songer_entrap
