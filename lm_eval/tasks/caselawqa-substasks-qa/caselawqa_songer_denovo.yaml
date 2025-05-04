@@ -1,0 +1,3 @@
+dataset_name: songer_denovo
+include: _default_template_qa
+task: caselawqa_songer_denovo_qa

@@ -1,0 +1,3 @@
+dataset_name: songer_judgdisc
+include: _default_template_qa
+task: caselawqa_songer_judgdisc_qa

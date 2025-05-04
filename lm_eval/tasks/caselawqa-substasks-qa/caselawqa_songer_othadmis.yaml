@@ -1,0 +1,3 @@
+dataset_name: songer_othadmis
+include: _default_template_qa
+task: caselawqa_songer_othadmis_qa

@@ -1,0 +1,3 @@
+dataset_name: songer_rtcouns
+include: _default_template_qa
+task: caselawqa_songer_rtcouns_qa

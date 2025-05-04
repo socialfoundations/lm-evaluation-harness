@@ -1,0 +1,3 @@
+dataset_name: songer_appel1_1_4
+include: _default_template_qa
+task: caselawqa_songer_appel1_1_4_qa

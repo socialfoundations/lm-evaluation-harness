@@ -1,0 +1,3 @@
+dataset_name: songer_bank_r2
+include: _default_template_qa
+task: caselawqa_songer_bank_r2_qa

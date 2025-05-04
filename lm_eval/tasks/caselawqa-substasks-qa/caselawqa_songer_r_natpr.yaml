@@ -1,0 +1,3 @@
+dataset_name: songer_r_natpr
+include: _default_template_qa
+task: caselawqa_songer_r_natpr_qa
